@@ -1,0 +1,3 @@
+include ':drawabletobitmaplibrary'
+include ':app'
+rootProject.name = "My Drawable to Bitmp"
